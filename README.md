@@ -31,7 +31,7 @@
 *  @param jsonCache 缓存回调
 *  @param success       成功回调
 *  @param failure       失败回调
-*/chenyifyinformation$cc8888
+*/
 +(void)GET:(NSString *)URL parameters:(NSDictionary *)dic  jsonCache:(httpRequestCache)jsonCache success:(httpRequestSucess)success failure:(httpRequestFailed)failure;
 
 ```
